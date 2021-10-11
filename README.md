@@ -34,6 +34,17 @@ So basically it is a contact :
  2. Abstract class
  3. Interface
 
+Polygon : Main project of ConsoleApplication Type
+Polygon.Library : Sub Project of ClassLibrary Project
+
+Some Notes:
+
+1. Interface member functions and member variables are public by default
+2. When we are not inheriting a class , default it is inheriting Object class
+   Eg:- pulic class ABC : Object
+        {
+        
+        }
 
   
   
