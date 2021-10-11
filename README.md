@@ -43,10 +43,10 @@ Some Notes:
 2. When we are not inheriting a class , default it is inheriting Object class
    Eg:- 
    
-       ``` public class ABC : Object
+        public class ABC : Object
         {
         
-        } ```
+        }
 
   
   
